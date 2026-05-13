@@ -36,7 +36,7 @@ Este projeto tem como objetivo analisar a jornada de implantação de clientes, 
 
 ## Dashboard
 
-![Dashboard](imagens/dashboard.png)
+![imagens](imagens/Dashboard)
 
 ---
 
